@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Rui Peng (彭睿)"
-description              : "Institute for AAIS @ PKU"
+description              : "Academy for Advanced Interdisciplinary Studies (AAIS) @ PKU"
 repository               : "prsigma/prsigma.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -27,7 +27,7 @@ author:
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : ""
+  googlescholar    : 
   email            : "prchengdu@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : ""
+  linkedin         : 
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :

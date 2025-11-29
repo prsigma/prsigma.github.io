@@ -39,7 +39,7 @@ My research lies at the intersection of artificial intelligence and biomedicine,
     * Mining data from large-scale longitudinal population cohorts to investigate proteomic signatures associated with **aging** and chronic diseases.
     * Facilitating **drug discovery** by identifying novel biomarkers and validating potential therapeutic targets.
 
-# 📖 Education
+# 📖 Educations
 
 - [2023.09 – Present] Ph.D. in Biology, Peking University (PKU)
 - [2018.09 – 2023.06] B.S. in Computer Science, Sichuan University (SCU)  
