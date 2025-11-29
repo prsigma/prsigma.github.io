@@ -31,7 +31,7 @@ My research lies at the intersection of artificial intelligence and biomedicine,
     * Utilizing **Graph Neural Networks (GNNs)** to reconstruct dynamic gene regulatory processes during development and disease progression.
     * Identifying critical **transcription factors** and regulatory hubs to elucidate the molecular mechanisms underlying pathogenesis.
 
-- **Biomedical Multi-modal LLMs & Autonomous Agents**
+- **Biomedical Multi-modal LLMs and Autonomous Agents**
     * Constructing multi-modal Large Language Models that integrate clinical text (e.g., **Electronic Health Records/EHR**) with medical imaging (e.g., **MRI, CT**).
     * Designing **autonomous agents** capable of automating complex clinical workflows and assisting in diagnostic reasoning.
 
