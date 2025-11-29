@@ -3,6 +3,9 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
+  - title: "Research Interests"
+    url: "/#-research-interests"
+
   - title: "Educations"
     url: "/#-educations"
     
@@ -12,17 +15,11 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
+  - title: "Preprints"
+    url: "/#-preprints"
+
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
-  - title: "Contest Awards"
-    url: "/#-contest-awards"
-
-  - title: "Invited Activities"
-    url: "/#-invited-activities"
-
-  - title: "Internships"
-    url: "/#-internships"
-  
-  - title: "Lifestyle"
-    url: "/#-lifestyle"
+  - title: "Academic Services"
+    url: "/#-academic-services"
