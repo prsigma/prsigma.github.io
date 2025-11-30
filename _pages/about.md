@@ -47,7 +47,6 @@ My research lies at the intersection of artificial intelligence and biomedicine,
 # 🔥 News
 - 🎉 [2025.11.23] We have published our preprint "TRIDENT: A Trimodal Cascade Generative Framework for Drug and
 RNA-Conditioned Cellular Morphology Synthesis"! Click [here](https://arxiv.org/pdf/2511.18287v1) to see the paper.
-- 🎉 [2025.11.23] I am happy to be invited as a Program Committee in CVPR 2026!
 - 🎉 [2025.9.18] Two paper accepted to NeurIPS 2025! **KARMA is selected as Spotlight**!
 - 🎉 [2025.9.3] I am happy to be invited as a Program Committee in ICLR 2026!
 - 🎉 [2025.9.1] We have published our preprint "CellProphet: Dissecting Virtual Cell Differentiation through AI-Powered Dynamic Gene Regulatory Network Inference"! Click [here](https://www.biorxiv.org/content/10.1101/2025.02.05.636766v2.full.pdf) to see the paper.
