@@ -45,8 +45,7 @@ My research lies at the intersection of artificial intelligence and biomedicine,
 - [2018.09 – 2023.06] B.S. in Computer Science, Sichuan University (SCU)  
 
 # 🔥 News
-- 🎉 [2025.11.23] We have published our preprint "TRIDENT: A Trimodal Cascade Generative Framework for Drug and
-RNA-Conditioned Cellular Morphology Synthesis"! Click [here](https://arxiv.org/pdf/2511.18287v1) to see the paper.
+- 🎉 [2026.2.20] One paper accepted to CVPR 2026!
 - 🎉 [2025.9.18] Two paper accepted to NeurIPS 2025! **KARMA is selected as Spotlight**!
 - 🎉 [2025.9.3] I am happy to be invited as a Program Committee in ICLR 2026!
 - 🎉 [2025.9.1] We have published our preprint "CellProphet: Dissecting Virtual Cell Differentiation through AI-Powered Dynamic Gene Regulatory Network Inference"! Click [here](https://www.biorxiv.org/content/10.1101/2025.02.05.636766v2.full.pdf) to see the paper.
@@ -54,6 +53,19 @@ RNA-Conditioned Cellular Morphology Synthesis"! Click [here](https://arxiv.org/p
 
 # 📝 Publications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='../paper/KINDLE/KINDLE.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**<font size=4>TRIDENT: A Trimodal Cascade Generative Framework for Drug and RNA-Conditioned Cellular Morphology Synthesis</font>**
+
+**Rui Peng**, Ziru Liu, Lingyuan Ye, <a href="https://yuxinglu613.github.io/" style="text-decoration: none;">Yuxing Lu</a>, <a href="https://scholar.google.com/citations?user=K1LjZxcAAAAJ&hl=en" style="text-decoration: none;">Boxin Shi</a><sup>\*</sup>, Jinzhuo Wang<sup>\*</sup>
+
+CVPR 2026
+
+[\[Paper\]](https://arxiv.org/pdf/2511.18287v1)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='../paper/CellProphet/CellProphet.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **<font size=4>KINDLE: Knowledge-Guided Distillation for Prior-Free Gene Regulatory Network Inference</font>**
@@ -94,19 +106,6 @@ Briefings in Bioinformatics (**BIB**) 2023
 
 # 📝 Preprints
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='../paper/TRIDENT/TRIDENT.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**<font size=4>TRIDENT: A Trimodal Cascade Generative Framework for Drug and RNA-Conditioned Cellular Morphology Synthesis</font>**
-
-**Rui Peng**, Ziru Liu, Lingyuan Ye, <a href="https://yuxinglu613.github.io/" style="text-decoration: none;">Yuxing Lu</a>, <a href="https://scholar.google.com/citations?user=K1LjZxcAAAAJ&hl=en" style="text-decoration: none;">Boxin Shi</a><sup>\*</sup>, Jinzhuo Wang<sup>\*</sup>
-
-Preprint 2025
-
-[\[Paper\]](https://arxiv.org/pdf/2511.18287v1)
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='../paper/CellProphet/CellProphet.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **<font size=4>CellProphet: Dissecting Virtual Cell Differentiation through AI-Powered Dynamic Gene Regulatory Network Inference</font>**
