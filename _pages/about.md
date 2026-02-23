@@ -52,14 +52,14 @@ My research lies at the intersection of artificial intelligence and biomedicine,
 - 🎉 [2025.4.13] I am happy to be invited as a Program Committee in NeurIPS 2025!
 
 # 📝 Publications
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='../paper/TRIDENT/TRIDENT.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='../paper/TRIDENT/TRIDENT.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **<font size=4>TRIDENT: A Trimodal Cascade Generative Framework for Drug and RNA-Conditioned Cellular Morphology Synthesis</font>**
 
 **Rui Peng**, Ziru Liu, Lingyuan Ye, <a href="https://yuxinglu613.github.io/" style="text-decoration: none;">Yuxing Lu</a>, <a href="https://scholar.google.com/citations?user=K1LjZxcAAAAJ&hl=en" style="text-decoration: none;">Boxin Shi</a><sup>\*</sup>, Jinzhuo Wang<sup>\*</sup>
 
-CVPR 2026
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026
 
 [\[Paper\]](https://arxiv.org/pdf/2511.18287v1)
 </div>
