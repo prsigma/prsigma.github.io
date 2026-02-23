@@ -52,7 +52,7 @@ My research lies at the intersection of artificial intelligence and biomedicine,
 - 🎉 [2025.4.13] I am happy to be invited as a Program Committee in NeurIPS 2025!
 
 # 📝 Publications
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='../paper/KINDLE/KINDLE.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='../paper/TRIDENT/TRIDENT.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **<font size=4>TRIDENT: A Trimodal Cascade Generative Framework for Drug and RNA-Conditioned Cellular Morphology Synthesis</font>**
@@ -65,7 +65,7 @@ CVPR 2026
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='../paper/CellProphet/CellProphet.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='../paper/KINDLE/KINDLE.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **<font size=4>KINDLE: Knowledge-Guided Distillation for Prior-Free Gene Regulatory Network Inference</font>**
@@ -105,7 +105,7 @@ Briefings in Bioinformatics (**BIB**) 2023
 </div>
 
 # 📝 Preprints
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='../paper/TRIDENT/TRIDENT.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='../paper/CellProphet/CellProphet.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **<font size=4>CellProphet: Dissecting Virtual Cell Differentiation through AI-Powered Dynamic Gene Regulatory Network Inference</font>**
