@@ -66,7 +66,7 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026 Highl
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='../paper/MetaBench/MetaBench.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='../paper/MetaBench/MetaBench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **<font size=4>MetaBench: A Multi-task Benchmark for Assessing LLMs in Metabolomics</font>**
