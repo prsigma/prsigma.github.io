@@ -45,23 +45,37 @@ My research lies at the intersection of artificial intelligence and biomedicine,
 - [2018.09 – 2023.06] B.S. in Computer Science, Sichuan University (SCU)  
 
 # 🔥 News
-- 🎉 [2026.2.20] One paper accepted to CVPR 2026!
+- 🎉 [2026.4.9] One paper accepted to CVPR 2026 Highlight!
+- 🎉 [2026.4.6] One paper accepted to ACL 2026 Main!
 - 🎉 [2025.9.18] Two paper accepted to NeurIPS 2025! **KARMA is selected as Spotlight**!
 - 🎉 [2025.9.3] I am happy to be invited as a Program Committee in ICLR 2026!
 - 🎉 [2025.9.1] We have published our preprint "CellProphet: Dissecting Virtual Cell Differentiation through AI-Powered Dynamic Gene Regulatory Network Inference"! Click [here](https://www.biorxiv.org/content/10.1101/2025.02.05.636766v2.full.pdf) to see the paper.
 - 🎉 [2025.4.13] I am happy to be invited as a Program Committee in NeurIPS 2025!
 
 # 📝 Publications
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='../paper/TRIDENT/TRIDENT.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026 Highlight</div><img src='../paper/TRIDENT/TRIDENT.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **<font size=4>TRIDENT: A Trimodal Cascade Generative Framework for Drug and RNA-Conditioned Cellular Morphology Synthesis</font>**
 
 **Rui Peng**, Ziru Liu, Lingyuan Ye, <a href="https://yuxinglu613.github.io/" style="text-decoration: none;">Yuxing Lu</a>, <a href="https://scholar.google.com/citations?user=K1LjZxcAAAAJ&hl=en" style="text-decoration: none;">Boxin Shi</a><sup>\*</sup>, Jinzhuo Wang<sup>\*</sup>
 
-IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026 Highlight
 
 [\[Paper\]](https://arxiv.org/pdf/2511.18287v1)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='../paper/MetaBench/MetaBench.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**<font size=4>MetaBench: A Multi-task Benchmark for Assessing LLMs in Metabolomics</font>**
+
+<a href="https://yuxinglu613.github.io/" style="text-decoration: none;">Yuxing Lu</a>, <a href="https://scholar.google.com/citations?user=Ko8zceoAAAAJ&hl=zh-CN&oi=ao" style="text-decoration: none;">Xukai Zhao</a>, J. Ben Tamo, Micky C. Nnamdi, **Rui Peng**, Shuang Zeng, Xingyu Hu, Jinzhuo Wang<sup>\*</sup>, May D. Wang<sup>\*</sup>
+
+The Association for Computational Linguistics (ACL) 2026 **Main**
+
+[\[Paper\]](https://arxiv.org/abs/2510.14944)
 </div>
 </div>
 
