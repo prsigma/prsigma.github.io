@@ -60,7 +60,7 @@ My research lies at the intersection of artificial intelligence and biomedicine,
 
 **Rui Peng**, Ziru Liu, Lingyuan Ye, <a href="https://yuxinglu613.github.io/" style="text-decoration: none;">Yuxing Lu</a>, <a href="https://scholar.google.com/citations?user=K1LjZxcAAAAJ&hl=en" style="text-decoration: none;">Boxin Shi</a><sup>\*</sup>, Jinzhuo Wang<sup>\*</sup>
 
-IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026 Highlight
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026 **Highlight**
 
 [\[Paper\]](https://arxiv.org/pdf/2511.18287v1)
 </div>
