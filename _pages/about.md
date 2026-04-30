@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-😎 Hi, I am **Rui Peng**, currently a third-year Ph.D. candidate at the **Academy for Advanced Interdisciplinary Studies (AAIS), Peking University**, where I am advised by [**Prof. Kang Zhang**](https://scholar.google.com/citations?user=cdzVY_QAAAAJ&hl=zh-CN). Prior to my doctoral studies, I received my B.S. degree from **Sichuan University** in 2023.
+😎 Hi, I am **Rui Peng**, currently a third-year Ph.D. candidate at the **Academy for Advanced Interdisciplinary Studies (AAIS), Peking University**, where I am advised by [**Jinzhuo Wang**](https://scholar.google.com/citations?user=vI5h3eAAAAAJ&hl=en). Prior to my doctoral studies, I received my B.S. degree from **Sichuan University** in 2023.
 
 My research lies at the intersection of artificial intelligence and biomedicine, with a primary focus on the construction of **Virtual Cells** and the application of **Multi-modal Large Language Models** in healthcare. I aim to leverage computational methods to decode complex biological systems and accelerate drug discovery.
 
